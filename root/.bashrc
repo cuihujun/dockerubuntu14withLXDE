@@ -43,4 +43,4 @@ export LS_COLORS="di=34:ln=35:so=32:pi=33:ex=1;40:bd=34;40:cd=34;40:su=0;40:sg=0
 source $HOME/.scripts/git-completion.sh
 
 # Z
-source $HOME/.scripts/z.sh
+#source $HOME/.scripts/z.sh
